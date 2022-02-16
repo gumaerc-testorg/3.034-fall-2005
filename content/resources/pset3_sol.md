@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource provides the solution for assignment problem set 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-034-organic-biomaterials-chemistry-fall-2005/71c7ba8bc375d1eb5fc7355a4ad9b009_pset3_sol.pdf
+file: /media/courses/3-034-organic-biomaterials-chemistry-fall-2005/71c7ba8bc375d1eb5fc7355a4ad9b009_pset3_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset3_sol.pdf
 uid: 71c7ba8b-c375-d1eb-5fc7-355a4ad9b009
