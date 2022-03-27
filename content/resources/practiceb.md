@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7e41756b-b1e1-741e-5715-5fd511c0ef9b
 resourcetype: Document
 title: practiceb.pdf
 uid: 040d9391-0e3d-77f8-d7a2-e29fd90f55a7

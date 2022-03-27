@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 63ead6cd-0293-e6da-93d2-c960154ce537
 resourcetype: Document
 title: intro.pdf
 uid: 6cb6d05e-8cbe-bd70-4a97-636911fdbbbb

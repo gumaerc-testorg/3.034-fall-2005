@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 63ead6cd-0293-e6da-93d2-c960154ce537
 resourcetype: Document
 title: gram_pos_neg_bct.pdf
 uid: cc67ce46-48dd-cc0d-a377-27ceac0cb21b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d21fd1d-5f3f-3406-eccb-986cdc5d5201
 resourcetype: Document
 title: lab2_interfacial.pdf
 uid: 5e963947-780d-e11c-9e8d-cea930c92209

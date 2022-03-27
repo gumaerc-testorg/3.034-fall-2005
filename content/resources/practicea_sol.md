@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7e41756b-b1e1-741e-5715-5fd511c0ef9b
 resourcetype: Document
 title: practicea_sol.pdf
 uid: 777ba3c8-c178-6601-bf98-772ef2ca761c

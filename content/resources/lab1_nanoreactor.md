@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d21fd1d-5f3f-3406-eccb-986cdc5d5201
 resourcetype: Document
 title: lab1_nanoreactor.pdf
 uid: f3b1df14-c028-ffcc-a47b-074700d78e59

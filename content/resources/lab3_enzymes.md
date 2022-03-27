@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d21fd1d-5f3f-3406-eccb-986cdc5d5201
 resourcetype: Document
 title: lab3_enzymes.pdf
 uid: 26e44384-8ae6-4273-8913-9ff50df430a3

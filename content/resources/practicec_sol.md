@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7e41756b-b1e1-741e-5715-5fd511c0ef9b
 resourcetype: Document
 title: practicec_sol.pdf
 uid: 2a0b0c37-b99c-975e-7793-71a1f7f56db1
