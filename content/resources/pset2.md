@@ -6,6 +6,7 @@ file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/7ffdf1d4ff04fe5a43
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pset2.pdf
 uid: 7ffdf1d4-ff04-fe5a-4307-dee1c0898c5a
 ---
 This resource contains 7 questions to test students understanding of course material.
-

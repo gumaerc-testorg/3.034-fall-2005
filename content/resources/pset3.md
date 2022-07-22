@@ -6,6 +6,7 @@ file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/8ff149ee401b27d84b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pset3.pdf
 uid: 8ff149ee-401b-27d8-4bd8-85063d27d4a6
 ---
 This resource contains 3 questions on polymers and byproducts to test students understanding of course material.
-

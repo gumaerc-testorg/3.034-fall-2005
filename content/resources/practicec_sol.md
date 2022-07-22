@@ -5,6 +5,7 @@ file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/2a0b0c37b99c975e77
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: practicec_sol.pdf
 uid: 2a0b0c37-b99c-975e-7793-71a1f7f56db1
 ---
 This resource provides the solution for assignment practice set C.
-

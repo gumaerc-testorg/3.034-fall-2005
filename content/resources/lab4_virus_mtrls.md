@@ -6,6 +6,7 @@ file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/17b820a0353479a233
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab4_virus_mtrls.pdf
 uid: 17b820a0-3534-79a2-337c-941f09c06029
 ---
 This resource contains laborartory experiment on viruses as materials for understanding of course.
-

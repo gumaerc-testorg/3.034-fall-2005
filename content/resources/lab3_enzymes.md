@@ -6,6 +6,7 @@ file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/26e443848ae6427389
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab3_enzymes.pdf
 uid: 26e44384-8ae6-4273-8913-9ff50df430a3
 ---
 This resource contains laborartory experiment on engineering dna via restriction enzymes for understanding of course.
-

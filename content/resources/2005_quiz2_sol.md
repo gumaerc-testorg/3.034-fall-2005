@@ -5,6 +5,7 @@ file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/ca171e69e021bf81ae
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2005_quiz2_sol.pdf
 uid: ca171e69-e021-bf81-aea7-b7b150a5ab63
 ---
 This resource provides the solution for the quiz 2.
-
