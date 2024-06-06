@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains laborartory experiment on engineering dna via
   restriction enzymes for understanding of course.
 file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/26e443848ae6427389139ff50df430a3_lab3_enzymes.pdf
+file_size: 116360
 file_type: application/pdf
 learning_resource_types:
 - Labs

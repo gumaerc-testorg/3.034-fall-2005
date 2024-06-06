@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides the solution for assignment practice set C.
 file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/2a0b0c37b99c975e779371a1f7f56db1_practicec_sol.pdf
+file_size: 558379
 file_type: application/pdf
 learning_resource_types:
 - Assignments
