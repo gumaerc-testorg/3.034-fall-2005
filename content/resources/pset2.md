@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 7 questions to test students understanding of
   course material.
-file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/7ffdf1d4ff04fe5a4307dee1c0898c5a_pset2.pdf
+file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/7ffdf1d4ff04fe5a4307dee1c0898c5a_pset2.pdf
 file_size: 42103
 file_type: application/pdf
 learning_resource_types:
