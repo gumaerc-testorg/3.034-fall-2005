@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains final exam in which using only molecules students
   has to show the material based designs for the given systems to check the students
   understanding of course material.
-file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/916d7c1bc67d916e6709d23ccac36b7e_2005_final.pdf
+file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/916d7c1bc67d916e6709d23ccac36b7e_2005_final.pdf
 file_size: 61853
 file_type: application/pdf
 learning_resource_types:

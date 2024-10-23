@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statement to Show the coupling chemistry
   that could be used to covalently bind aggrecan molecules to the gold surface to
   check the students understanding of course material.
-file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/040d93910e3d77f8d7a2e29fd90f55a7_practiceb.pdf
+file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/040d93910e3d77f8d7a2e29fd90f55a7_practiceb.pdf
 file_size: 39321
 file_type: application/pdf
 learning_resource_types:

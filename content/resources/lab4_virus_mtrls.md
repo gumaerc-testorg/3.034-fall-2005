@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains laborartory experiment on viruses as materials
   for understanding of course.
-file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/17b820a0353479a2337c941f09c06029_lab4_virus_mtrls.pdf
+file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/17b820a0353479a2337c941f09c06029_lab4_virus_mtrls.pdf
 file_size: 121362
 file_type: application/pdf
 learning_resource_types:
