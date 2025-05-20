@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains laborartory experiment on nanoreactors and bacteria
   for understanding of course.
-file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/f3b1df14c028ffcca47b074700d78e59_lab1_nanoreactor.pdf
+file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/f3b1df14c028ffcca47b074700d78e59_lab1_nanoreactor.pdf
 file_size: 101348
 file_type: application/pdf
 learning_resource_types:

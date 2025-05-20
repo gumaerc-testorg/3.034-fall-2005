@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 questions on polymers and byproducts to test
   students understanding of course material.
-file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/8ff149ee401b27d84bd885063d27d4a6_pset3.pdf
+file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/8ff149ee401b27d84bd885063d27d4a6_pset3.pdf
 file_size: 53972
 file_type: application/pdf
 learning_resource_types:

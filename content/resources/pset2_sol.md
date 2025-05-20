@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides the solution for assignment problem set 2.
-file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/90019c965efb8d6e6a6e3cb19cc8b7fc_pset2_sol.pdf
+file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/90019c965efb8d6e6a6e3cb19cc8b7fc_pset2_sol.pdf
 file_size: 981893
 file_type: application/pdf
 learning_resource_types:
