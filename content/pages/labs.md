@@ -3,7 +3,7 @@ content_type: page
 description: This section lists the lab files as per the topics covered in the course.
   This serve as the primary reading material for this course.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 6d21fd1d-5f3f-3406-eccb-986cdc5d5201
