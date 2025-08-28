@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides the solution for practice quiz 2.
-file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/d35601656b0a99c710c186d8642cea6a_2004_quiz2_sol.pdf
+file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/d35601656b0a99c710c186d8642cea6a_2004_quiz2_sol.pdf
 file_size: 75961
 file_type: application/pdf
 learning_resource_types:

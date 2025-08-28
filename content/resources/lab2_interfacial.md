@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource contains laborartory experiment on interfacial pPolymerization
   for understanding of course.
-file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/5e963947780de11c9e8dcea930c92209_lab2_interfacial.pdf
+file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/5e963947780de11c9e8dcea930c92209_lab2_interfacial.pdf
 file_size: 42452
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains different set of questions on dna sequencing,
   natural proteins, carbon nanotube, transforming principle etc. to check the students
   understanding of course material.
-file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/37d53241631e4e058eeced03dc15b111_practicec.pdf
+file: /ol-ocw-studio-app/courses/3-034-organic-biomaterials-chemistry-fall-2005/37d53241631e4e058eeced03dc15b111_practicec.pdf
 file_size: 55347
 file_type: application/pdf
 learning_resource_types:
